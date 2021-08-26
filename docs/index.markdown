@@ -6,7 +6,8 @@ layout: home
 ---
 
 I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
-I obtained a Bachelor degree from [Southeast University][seu] in 2014. After that, I received my PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi].
+I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi],
+and a Bachelor degree from [Southeast University][seu] in 2014.
 
 
 ## Reseach Interests
