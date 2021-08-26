@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 Please also refer to my [Google Scholar][gs] profile.
+
 # Selected Papers
 
 - [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
