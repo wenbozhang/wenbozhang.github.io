@@ -4,9 +4,7 @@ title: Publications
 permalink: /about/
 ---
 
-Selected Papers
 
-<h2>Papers </h2>
 <ul>
 <li>
 <div id="title">The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata</a></div> <div id=    "au">Wenbo Zhang.</div><div id="pub"> <b>Frontiers of Computer Science</b>, accepted.</div></li>
