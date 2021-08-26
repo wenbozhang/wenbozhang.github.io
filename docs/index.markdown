@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+date: 26 Aug,2021
+
 ---
 
 I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
