@@ -7,13 +7,13 @@ permalink: /publications/
 # Selected Papers
 - On Decidability of the Bisimilarity on Higher-order Processes with Parameterization.<br>
    Xian Xu and Wenbo Zhang.<br>
-  EXPRESS/SOS 2021.
+  In *Proceedings of Combined 28td International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**'21), accepted.
 - The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata.<br>
    Wenbo Zhang.<br>
   <b>Frontiers of Computer Science</b>, accepted.
 - [On the Interactive Power of Higher-order Processes Extended with Parameterization][FAC20] <br>
    Wenbo Zhang, Xian Xu, Qiang Yin and Huan Long.<br>
-  <b>Formal Aspects of Computing</b>, accepted.
+  <b>Formal Aspects of Computing</b>, 33(2): 151-183, 2021.
 - [Bisimulation Equivalence of Pushdown Automata is Ackermann-Complete][ICALP20] <br>
    Wenbo Zhang, Qiang Yin, Huan Long and Xian Xu.<br>
    In *Proceedings of the 47th International Colloquium on Automata, Languages and Programming* (**ICALP**'20), 141:1-14, 2020.
