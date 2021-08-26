@@ -8,11 +8,11 @@ layout: home
 I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
 I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi].
 
-##Reseach Interests
+## Reseach Interests
 - Formal Verification
 - Process Algebra
 
-##Contact 
+## Contact 
 - <b>Email</b>: wbzhang (at) shou.edu.cn<br> 
 - <b>Postal Address</b>: <br>College of Information Technology <br> Shanghai Ocean University <br> No. 999, Hucheng Ring Road, Shanghai <br> 
 

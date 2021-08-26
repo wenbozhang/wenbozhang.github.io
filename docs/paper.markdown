@@ -4,7 +4,7 @@ title: Selected Papers
 permalink: /publications/
 ---
 
-#Selected Papers
+# Selected Papers
 
 - The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata.<br>
    Wenbo Zhang.<br>
