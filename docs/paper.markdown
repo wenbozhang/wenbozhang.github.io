@@ -11,7 +11,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 - [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
    Xian Xu and Wenbo Zhang.<br>
-  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**'21), accepted.
+  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), accepted.
 - [The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata][FCS21]<br>
    Wenbo Zhang.<br>
   <b>Frontiers of Computer Science</b>, accepted.
@@ -20,10 +20,10 @@ Please also refer to my [Google Scholar][gs] profile.
   <b>Formal Aspects of Computing</b>, 33(2): 151-183, 2021.
 - [Bisimulation Equivalence of Pushdown Automata is Ackermann-Complete][ICALP20] <br>
    Wenbo Zhang, Qiang Yin, Huan Long and Xian Xu.<br>
-   In *Proceedings of the 47th International Colloquium on Automata, Languages and Programming* (**ICALP**'20), 141:1-14, 2020.
+   In *Proceedings of the 47th International Colloquium on Automata, Languages and Programming* (**ICALP**), 141:1-14, 2020.
 - [Uniform Random Process Model Revisited][JOS18]  <br>
    Wenbo Zhang, Huan Long and Xian Xu. <br>
-   In *Proceedings of the 17th Asian Symposium on Programming Languages and Systems* (**APLAS**'19), 388-404, 2019.
+   In *Proceedings of the 17th Asian Symposium on Programming Languages and Systems* (**APLAS**), 388-404, 2019.
 - [State-of-the-Art Survey on Verification of Vector Addition Systems][JOS18]<br>
    Wenbo Zhang and Huan Long.<br>
   <b>Journal of Software</b> (in Chinese), Vol. 29(6), 1566-1581, 2018.
