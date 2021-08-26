@@ -7,10 +7,10 @@ permalink: /publications/
 # Selected Papers
 Please also refer to my [Google Scholar][gs] profile.
 
-- On Decidability of the Bisimilarity on Higher-order Processes with Parameterization.<br>
+- On Decidability of the Bisimilarity on Higher-order Processes with Parameterization<br>
    Xian Xu and Wenbo Zhang.<br>
   In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**'21), accepted.
-- The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata.<br>
+- The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata<br>
    Wenbo Zhang.<br>
   <b>Frontiers of Computer Science</b>, accepted.
 - [On the Interactive Power of Higher-order Processes Extended with Parameterization][FAC20] <br>
