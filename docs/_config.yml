@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  wenbozhang
 
-date: 2021-8-26 
+date: 26 Aug, 2021 
 # Build settings
 theme: minima
 plugins:
