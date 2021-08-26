@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Publications
-permalink: /about/
+permalink: /publications/
 ---
 
 
-<ul>
-<li>
+
 <div id="title">The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata</a></div> <div id=    "au">Wenbo Zhang.</div><div id="pub"> <b>Frontiers of Computer Science</b>, accepted.</div></li>
 <li><div id="title"><a href="https://link.springer.com/article/10.1007/s00165-020-00524-1">On the Interactive Power     of Higher-order Processes Extended with Parameterization</a></div> <div id="au">Wenbo Zhang, Xian Xu, Qiang Yin and     Huan Long.</div><div id="pub"> <b>Formal Aspects of Computing</b>, accepted.</div></li>
 <li>[Bisimulation Equivalence of Pushdown Automata is Ackermann-Complete][ICALP20] <div id="au">Wenbo Zhang, Qiang Yin, Huan Long and Xian Xu.</div    ><div id="pub"> In <i>Proceedings of the 47th International Colloquium on Automata, Languages and Programming</i> (<    b>ICALP</b>'20), 141:1-14, 2020.</div></li>
