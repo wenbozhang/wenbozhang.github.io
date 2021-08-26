@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-date: 26 Aug,2021
+date: 26 Aug, 2021
 
 ---
 
