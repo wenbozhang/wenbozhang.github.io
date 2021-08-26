@@ -6,11 +6,13 @@ layout: home
 ---
 
 I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
-I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi].
+I obtained a Bachelor degree from [Southeast University][seu] in 2014. After that, I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi].
+
 
 ## Reseach Interests
 - Formal Verification
 - Process Algebra
+- Blockchain
 
 ## Contact 
 - <b>Email</b>: wbzhang (at) shou.edu.cn<br> 
@@ -22,4 +24,5 @@ I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supe
 [college-shou]: https://xxxy.shou.edu.cn
 [shou]: https://www.shou.edu.cn
 [sjtu]: https://www.sjtu.edu.cn/
+[seu]: https://www.seu.edu.cn/
 [yuxi]: http://basics.sjtu.edu.cn/~yuxi/
