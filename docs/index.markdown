@@ -5,8 +5,8 @@
 layout: home
 ---
 
-I am a lecturer in <a href="https://xxxy.shou.edu.cn">College of Information Technology</a> at <a href="https://www.shou.edu.cn">Shanghai Ocean University</a>.
-I obtained a PhD degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2020, supervised by Prof. <a href="http://basics.sjtu.edu.cn/~yuxi/">Yuxi Fu</a>.
+I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
+I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi].
 
 <h2>Reseach Interests </h2>
 				<ul>
@@ -15,14 +15,14 @@ I obtained a PhD degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao To
 					<li>Process Algebra 
 					</li>
 				</ul>
-				<h2>Contact </h2>
+<h2>Contact </h2>
 				<ul>
 					<li><b>Email</b>: wbzhang (at) shou.edu.cn<br> 
 					</li>
 					<li><b>Postal Address</b>: <br>College of Information Technology <br> Shanghai Ocean University <br> No. 999, Hucheng Ring Road, Shanghai <br> 
 					</li>
 				</ul>
-				<h2>Papers </h2>
+<h2>Papers </h2>
 				
 				<ul>
 					<li>
@@ -42,3 +42,7 @@ I obtained a PhD degree from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao To
 					</li>
 				</ul>
 
+[college-shou]:https://xxxy.shou.edu.cn
+[shou]: https://www.shou.edu.cn
+[sjtu]: https://www.sjtu.edu.cn/
+[yuxi]: http://basics.sjtu.edu.cn/~yuxi/
