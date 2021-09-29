@@ -1,0 +1,13 @@
+https://wenbozhang.github.io/jekyll/update/2021/08/24/welcome-to-jekyll.html
+
+https://wenbozhang.github.io/about/
+
+RSS
+https://wenbozhang.github.io/feed.xml
+
+
+bundle info --path minima 可以输出minima主题的存储路径
+在本地路径可以覆盖theme主题的设置
+
+
+
