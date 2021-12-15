@@ -1,5 +1,5 @@
 ---
-date: 25 Aug, 2021
+date: 15 Dec, 2021
 layout: page
 title: Selected Papers
 permalink: /publications/
@@ -11,7 +11,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 - [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
    Xian Xu and Wenbo Zhang.<br>
-  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), accepted, 2021.
+  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), EPTCS 339: 76-92, 2021.
 - [The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata][FCS21]<br>
    Wenbo Zhang.<br>
   <b>Frontiers of Computer Science</b>, 16(4): 1-7, 2022.
@@ -31,7 +31,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 [gs]: https://scholar.google.com/citations?hl=en&user=Hzshk5YAAAAJ
 [EXPRESS21]: https://arxiv.org/abs/2108.10494
-[FCS21]: https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=29030
+[FCS21]: https://link.springer.com/article/10.1007/s11704-021-0340-x
 [FAC20]: https://link.springer.com/article/10.1007/s00165-020-00524-1
 [ICALP20]: https://drops.dagstuhl.de/opus/volltexte/2020/12548/pdf/LIPIcs-ICALP-2020-141.pdf
 [APLAS19]: https://link.springer.com/chapter/10.1007/978-3-030-34175-6_20
