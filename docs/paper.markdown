@@ -14,7 +14,7 @@ Please also refer to my [Google Scholar][gs] profile.
   In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), accepted, 2021.
 - [The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata][FCS21]<br>
    Wenbo Zhang.<br>
-  <b>Frontiers of Computer Science</b>, accepted, 2021.
+  <b>Frontiers of Computer Science</b>, 16(4): 1-7, 2022.
 - [On the Interactive Power of Higher-order Processes Extended with Parameterization][FAC20] <br>
    Wenbo Zhang, Xian Xu, Qiang Yin and Huan Long.<br>
   <b>Formal Aspects of Computing</b>, 33(2): 151-183, 2021.
