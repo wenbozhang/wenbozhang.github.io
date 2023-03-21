@@ -37,6 +37,6 @@ Please also refer to my [Google Scholar][gs] profile.
 [ICALP20]: https://drops.dagstuhl.de/opus/volltexte/2020/12548/pdf/LIPIcs-ICALP-2020-141.pdf
 [APLAS19]: https://link.springer.com/chapter/10.1007/978-3-030-34175-6_20
 [JOS18]: http://www.jos.org.cn/html/2018/6/5465.htm
-[PhDThesis]:./pdf/phdThesis.pdf
+[PhDThesis]:../pdf/phdThesis.pdf
 
 
