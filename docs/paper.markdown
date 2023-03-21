@@ -27,6 +27,7 @@ Please also refer to my [Google Scholar][gs] profile.
 - [State-of-the-Art Survey on Verification of Vector Addition Systems][JOS18]<br>
    Wenbo Zhang and Huan Long.<br>
   <b>Journal of Software</b> (in Chinese), Vol. 29(6), 1566-1581, 2018.
+- [On Bisimilarity Equivalence Checking Problems][PhDThesis]<br>Wenbo Zhang.<br> PhD thesis, Shanghai Jiao Tong University, 2020. (in Chinese)
 
 
 [gs]: https://scholar.google.com/citations?hl=en&user=Hzshk5YAAAAJ
@@ -36,5 +37,6 @@ Please also refer to my [Google Scholar][gs] profile.
 [ICALP20]: https://drops.dagstuhl.de/opus/volltexte/2020/12548/pdf/LIPIcs-ICALP-2020-141.pdf
 [APLAS19]: https://link.springer.com/chapter/10.1007/978-3-030-34175-6_20
 [JOS18]: http://www.jos.org.cn/html/2018/6/5465.htm
+[PhDThesis]:./pdf/phdThesis.pdf
 
 
