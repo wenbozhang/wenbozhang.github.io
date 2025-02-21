@@ -8,18 +8,21 @@ permalink: /publications/
 Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
+- [The Formal Verification of Aptos Coin][ISC24]<br>
+  Kundu Chen, Jie Luo, Yi Lu, Zhongyun Zhang, Wenbo Zhang, Xudong Wang, Pan Li, Jun Zhao.<br>
+  In *Proceedings of the 27th Information Security Conference* (**ISC**), 3-22, 2024.
 - [The Principle of Staking: Formal Verification of Staking Smart Contract][SETTA24]<br>
   Zhongyun Zhang, Kundu Chen, Weiqi Guo and Wenbo Zhang.<br>
-  In *Proceedings of the 47th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
+  In *Proceedings of the 10th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
 - [Speech preprocessing and enhancement based on joint time domain and time-frequency domain analysis][JASA24]<br>
    Wenbo Zhang, Xuefeng Xie,  Yanling Du and Dongmei Huang.<br>
    <b>The Journal of the Acoustical Society of America</b>, 155(6): 2580-2588, 2024.
-- [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
-   Xian Xu and Wenbo Zhang.<br>
-  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), EPTCS 339: 76-92, 2021.
 - [The Parametric Complexity of Bisimulation Equivalence of Normed Pushdown Automata][FCS21]<br>
    Wenbo Zhang.<br>
   <b>Frontiers of Computer Science</b>, 16(4): 1-7, 2022.
+- [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
+   Xian Xu and Wenbo Zhang.<br>
+  In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), EPTCS 339: 76-92, 2021.
 - [On the Interactive Power of Higher-order Processes Extended with Parameterization][FAC20] <br>
    Wenbo Zhang, Xian Xu, Qiang Yin and Huan Long.<br>
   <b>Formal Aspects of Computing</b>, 33(2): 151-183, 2021.
@@ -36,6 +39,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 
 [gs]: https://scholar.google.com/citations?hl=en&user=Hzshk5YAAAAJ
+[ISC24]: https://link.springer.com/chapter/10.1007/978-3-031-75757-0_1
 [SETTA24]: https://link.springer.com/chapter/10.1007/978-981-96-0602-3_9
 [JASA24]: https://pubs.aip.org/asa/jasa/article-abstract/155/6/3580/3295657/Speech-preprocessing-and-enhancement-based-on?redirectedFrom=fulltext
 [EXPRESS21]: https://arxiv.org/abs/2108.10494
