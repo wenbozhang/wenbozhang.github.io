@@ -8,12 +8,12 @@ permalink: /publications/
 Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
-- [The Formal Verification of Aptos Coin][ISC24]<br>
-  Kundu Chen, Jie Luo, Yi Lu, Zhongyun Zhang, Wenbo Zhang, Xudong Wang, Pan Li, Jun Zhao.<br>
-  In *Proceedings of the 27th Information Security Conference* (**ISC**), 3-22, 2024.
 - [The Principle of Staking: Formal Verification of Staking Smart Contract][SETTA24]<br>
   Zhongyun Zhang, Kundu Chen, Weiqi Guo and Wenbo Zhang.<br>
   In *Proceedings of the 10th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
+- [The Formal Verification of Aptos Coin][ISC24]<br>
+  Kundu Chen, Jie Luo, Yi Lu, Zhongyun Zhang, Wenbo Zhang, Xudong Wang, Pan Li, Jun Zhao.<br>
+  In *Proceedings of the 27th Information Security Conference* (**ISC**), 3-22, 2024.
 - [Speech preprocessing and enhancement based on joint time domain and time-frequency domain analysis][JASA24]<br>
    Wenbo Zhang, Xuefeng Xie,  Yanling Du and Dongmei Huang.<br>
    <b>The Journal of the Acoustical Society of America</b>, 155(6): 2580-2588, 2024.
