@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-date: 26 Aug, 2021
+date: 21 Feb, 2025
 
 ---
 
-I am a lecturer in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
+I am an associate professor in [College of Information Technology][college-shou] at [Shanghai Ocean University][shou].
 I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi],
 and a Bachelor degree from [Southeast University][seu] in 2014.
 
@@ -16,6 +16,7 @@ and a Bachelor degree from [Southeast University][seu] in 2014.
 - Formal Verification
 - Process Algebra
 - Blockchain
+- Artificial Intelligence
 
 ## Contact 
 - <b>Email</b>: wbzhang (at) shou.edu.cn<br> 

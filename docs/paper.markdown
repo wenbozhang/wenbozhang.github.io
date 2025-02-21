@@ -1,5 +1,5 @@
 ---
-date: 15 Dec, 2021
+date: 21 Feb, 2025
 layout: page
 title: Selected Papers
 permalink: /publications/
@@ -8,7 +8,12 @@ permalink: /publications/
 Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
-
+- [The Principle of Staking: Formal Verification of Staking Smart Contract][SETTA24]<br>
+  Zhongyun Zhang, Kundu Chen, Weiqi Guo and Wenbo Zhang.<br>
+  In *Proceedings of the 47th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
+- [Speech preprocessing and enhancement based on joint time domain and time-frequency domain analysis][JASA24]<br>
+   Wenbo Zhang, Xuefeng Xie,  Yanling Du and Dongmei Huang.<br>
+   <b>The Journal of the Acoustical Society of America</b>, 155(6): 2580-2588, 2024.
 - [On Decidability of the Bisimilarity on Higher-order Processes with Parameterization][EXPRESS21]<br>
    Xian Xu and Wenbo Zhang.<br>
   In *Proceedings of Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics* (**EXPRESS/SOS**), EPTCS 339: 76-92, 2021.
@@ -30,6 +35,8 @@ Please also refer to my [Google Scholar][gs] profile.
 
 
 [gs]: https://scholar.google.com/citations?hl=en&user=Hzshk5YAAAAJ
+[SETTA24]: https://link.springer.com/chapter/10.1007/978-981-96-0602-3_9
+[JASA24]: https://pubs.aip.org/asa/jasa/article-abstract/155/6/3580/3295657/Speech-preprocessing-and-enhancement-based-on?redirectedFrom=fulltext
 [EXPRESS21]: https://arxiv.org/abs/2108.10494
 [FCS21]: https://link.springer.com/article/10.1007/s11704-021-0340-x
 [FAC20]: https://link.springer.com/article/10.1007/s00165-020-00524-1
