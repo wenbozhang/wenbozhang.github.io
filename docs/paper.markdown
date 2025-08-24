@@ -8,6 +8,9 @@ permalink: /publications/
 Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
+- [Logical Characterization of Branching Bisimilarity over Random Processes][IPL25]<br>
+  Xian Xu and Wenbo Zhang.<br>
+ <b>Information Processing Letters</b>, 2025.
 - [The Principle of Staking: Formal Verification of Staking Smart Contract][SETTA24]<br>
   Zhongyun Zhang, Kundu Chen, Weiqi Guo and Wenbo Zhang.<br>
   In *Proceedings of the 10th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
@@ -48,6 +51,7 @@ Please also refer to my [Google Scholar][gs] profile.
 [ICALP20]: https://drops.dagstuhl.de/opus/volltexte/2020/12548/pdf/LIPIcs-ICALP-2020-141.pdf
 [APLAS19]: https://link.springer.com/chapter/10.1007/978-3-030-34175-6_20
 [JOS18]: http://www.jos.org.cn/html/2018/6/5465.htm
+[IPL25]: https://www.sciencedirect.com/science/article/abs/pii/S0020019025000407
 [PhDThesis]:../pdf/phdThesis.pdf
 
 

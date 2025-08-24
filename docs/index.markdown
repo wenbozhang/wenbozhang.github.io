@@ -32,4 +32,4 @@ Here is my [CV][cv].
 [sjtu]: https://www.sjtu.edu.cn/
 [seu]: https://www.seu.edu.cn/
 [yuxi]: http://basics.sjtu.edu.cn/~yuxi/
-[cv]:../CV.pdf
+[cv]:../pdf/CV.pdf
