@@ -11,6 +11,8 @@ I am an associate professor in [College of Information Technology][college-shou]
 I obtained a PhD degree from [Shanghai Jiao Tong University][sjtu] in 2020, supervised by Prof. [Yuxi Fu][yuxi],
 and a Bachelor degree from [Southeast University][seu] in 2014.
 
+Here is my [CV][cv].
+
 
 ## Reseach Interests
 - Formal Verification
@@ -30,3 +32,4 @@ and a Bachelor degree from [Southeast University][seu] in 2014.
 [sjtu]: https://www.sjtu.edu.cn/
 [seu]: https://www.seu.edu.cn/
 [yuxi]: http://basics.sjtu.edu.cn/~yuxi/
+[cv]:../CV.pdf
