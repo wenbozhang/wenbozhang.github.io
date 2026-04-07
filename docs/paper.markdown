@@ -8,6 +8,9 @@ permalink: /publications/
 Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
+- [On Inductive Characterization for Divergence-sensitive Probabilistic Branching Bisimilarity][FAC26]<br>
+  Hao Wu, Yuxi Fu, Huan Long, Xian Xu, Wenbo Zhang
+  <b>Formal Aspects of Computing</b>, 2026.
 - [Logical Characterization of Branching Bisimilarity over Random Processes][IPL25]<br>
   Xian Xu and Wenbo Zhang.<br>
  <b>Information Processing Letters</b>, 2025.
@@ -42,6 +45,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 
 [gs]: https://scholar.google.com/citations?hl=en&user=Hzshk5YAAAAJ
+[FAC26]: https://dl.acm.org/doi/10.1145/3803544
 [ISC24]: https://link.springer.com/chapter/10.1007/978-3-031-75757-0_1
 [SETTA24]: https://link.springer.com/chapter/10.1007/978-981-96-0602-3_9
 [JASA24]: https://pubs.aip.org/asa/jasa/article-abstract/155/6/3580/3295657/Speech-preprocessing-and-enhancement-based-on?redirectedFrom=fulltext
