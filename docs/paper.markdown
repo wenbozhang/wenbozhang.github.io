@@ -9,7 +9,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
 - [On Inductive Characterization for Divergence-sensitive Probabilistic Branching Bisimilarity][FAC26]<br>
-  Hao Wu, Yuxi Fu, Huan Long, Xian Xu, Wenbo Zhang
+  Hao Wu, Yuxi Fu, Huan Long, Xian Xu, Wenbo Zhang.<br>
   <b>Formal Aspects of Computing</b>, 2026.
 - [Logical Characterization of Branching Bisimilarity over Random Processes][IPL25]<br>
   Xian Xu and Wenbo Zhang.<br>
