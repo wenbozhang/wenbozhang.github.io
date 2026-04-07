@@ -9,7 +9,7 @@ Please also refer to my [Google Scholar][gs] profile.
 
 # Selected Papers
 - [On Inductive Characterization for Divergence-sensitive Probabilistic Branching Bisimilarity][FAC26]<br>
-  Hao Wu, Yuxi Fu, Huan Long, Xian Xu, Wenbo Zhang.<br>
+  Hao Wu, Yuxi Fu, Huan Long, Xian Xu and Wenbo Zhang.<br>
   <b>Formal Aspects of Computing</b>, 2026.
 - [Logical Characterization of Branching Bisimilarity over Random Processes][IPL25]<br>
   Xian Xu and Wenbo Zhang.<br>
@@ -18,7 +18,7 @@ Please also refer to my [Google Scholar][gs] profile.
   Zhongyun Zhang, Kundu Chen, Weiqi Guo and Wenbo Zhang.<br>
   In *Proceedings of the 10th International Symposium on Dependable Software Engineering: Theories, Tools, and Applications* (**SETTA**), 161-179, 2024.
 - [The Formal Verification of Aptos Coin][ISC24]<br>
-  Kundu Chen, Jie Luo, Yi Lu, Zhongyun Zhang, Wenbo Zhang, Xudong Wang, Pan Li, Jun Zhao.<br>
+  Kundu Chen, Jie Luo, Yi Lu, Zhongyun Zhang, Wenbo Zhang, Xudong Wang, Pan Li and Jun Zhao.<br>
   In *Proceedings of the 27th Information Security Conference* (**ISC**), 3-22, 2024.
 - [Speech preprocessing and enhancement based on joint time domain and time-frequency domain analysis][JASA24]<br>
    Wenbo Zhang, Xuefeng Xie,  Yanling Du and Dongmei Huang.<br>
